@@ -1,0 +1,21 @@
+#header {
+	height: 50px;
+	background: #10284e;
+	color #fff;
+}
+
+#branding h1 {
+	color: #fff;
+}
+
+a:link,
+a:visited {
+	color: #a9caff;;
+}
+
+div.breadcrumbs {
+	background: #178467;
+}
+div.breadcrumbs a{
+	color: #fff;
+}
